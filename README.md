@@ -11,7 +11,7 @@ Leia atentamente este README pois ele irá te ajudar a compreender as premissas 
 - Utilização do framework [Vite.js](https://vite.dev/)
 - Utilização do framework (TailwindCSS)[https://tailwindcss.com/] na versão **3.4.17**.
 - Desenvolvimento em **Javascript Nativo**
-- **TODO O CÓDIGO DEVESER DESENVOLVIDO UTILIZANDO TYPESCRIPT**.
+- **TODO O CÓDIGO DEVE SER DESENVOLVIDO UTILIZANDO TYPESCRIPT**.
 
 # Recursos
 - Imagens de base: https://drive.google.com/drive/folders/1gEcXMSTa6Xzu6K6AABjB4CRXLvZZyVcu?usp=sharing
