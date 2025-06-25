@@ -44,4 +44,4 @@ Leia atentamente este README pois ele irá te ajudar a compreender as premissas 
 - Use sua criativadade! Sinta-se livre para implementar funcionalidades que não estão neste documento, pois isso irá destacar você.
 
 # Prazo para entrega
-- 7 dias
+- 3 dias
