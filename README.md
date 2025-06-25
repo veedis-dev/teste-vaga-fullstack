@@ -11,6 +11,7 @@ Leia atentamente este README pois ele irá te ajudar a compreender as premissas 
 - Utilização do framework [Vite.js](https://vite.dev/)
 - Utilização do framework (TailwindCSS)[https://tailwindcss.com/] na versão **3.4.17**.
 - Desenvolvimento em **Javascript Nativo**
+- Publique sua aplicação em uma plataforma de deploy rápido (vercel/heroku/netlify/outros)
 - **TODO O CÓDIGO DEVE SER DESENVOLVIDO UTILIZANDO TYPESCRIPT**.
 
 # Recursos
